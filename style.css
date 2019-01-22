@@ -104,6 +104,11 @@ body {
 	text-align:center;
 	width:751px;
 }
+ul{
+list-style-type: lower-roman;
+color: yellow;
+font-family:"Iskoola Pota";
+}
 
 /* Added by Larry Ullman: */
 .error, .ad {
